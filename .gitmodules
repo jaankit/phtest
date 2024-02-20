@@ -1,0 +1,8 @@
+[submodule "SPECS/linux/v5.10"]
+	path = SPECS/linux/v5.10
+	url = https://github.com/jaankit/phlin.git
+	branch = v5.10
+[submodule "SPECS/linux/v6.1"]
+	path = SPECS/linux/v6.1
+	url = https://github.com/jaankit/phlin.git
+	branch = v6.1
